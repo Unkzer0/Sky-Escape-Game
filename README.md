@@ -1,7 +1,5 @@
 # Sky-Escape-Game
 A mini rocket game🚀 
-<h3># Sky-Escape</h3>
-A mini rocket game🚀 for learning.
 <br>
 <h5>Author - Abhay
 <br>
