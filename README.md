@@ -60,6 +60,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 👤 **Developer**: Abhay Agrahari  
 ✉️ **Email**: [work.abhay002@gmail.com](mailto:work.abhay002@gmail.com)  
 🐙 **GitHub**: [@AbhayAgrahari](https://github.com/yourusername)  
-🔗 **LinkedIn**: [Profile](https://linkedin.com/in/yourprofile)  
+🔗 **LinkedIn**: [Profile](https://www.linkedin.com/in/abhay-agrahari-5a6955257)  
 
 🚀 **Navigate through obstacles and achieve victory in Sky Escape!**
