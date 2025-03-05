@@ -22,15 +22,15 @@
 ---
 
 ## 🎮 How to Play
-1. **Download & Install** the game from the link below.
-2. **Launch** the game on your PC.
-3. **Control the spaceship** using joystick/mouse & keyboard.
+1. **Open the game from the link below.
+2. **Launch** the game on your browser.
+3. **Control the spaceship** using joystick.
 4. **Dodge obstacles and reach your goal safely.**
 
 ---
 
-## 🔗 Download
-🔽 [Play Sky Escape](<your_game_link>)
+## 🔗 Game
+🔽 [Play Sky Escape](https://unkzero0.itch.io/sky-escape)
 
 ---
 
