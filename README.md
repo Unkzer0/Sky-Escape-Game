@@ -12,13 +12,13 @@
 
 ---
 
-## 📷 Screenshots
+<!--## 📷 Screenshots
 <p align="center">
     <img src="<your_screenshot_link_1>" alt="Gameplay Screenshot 1" width="600">
     <img src="<your_screenshot_link_2>" alt="Gameplay Screenshot 2" width="600">
     <img src="<your_screenshot_link_3>" alt="Gameplay Screenshot 3" width="600">
 </p>
-
+-->
 ---
 
 ## 🎮 How to Play
