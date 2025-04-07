@@ -21,12 +21,16 @@
       <th>Control</th>
     </tr>
     <tr>
+      <td>Thruster</td>
+      <td>Rocket Button</td>
+    </tr>
+    <tr>
       <td>Move Left</td>
-      <td>Left Arrow / A</td>
+      <td>Left Arrow Button </td>
     </tr>
     <tr>
       <td>Move Right</td>
-      <td>Right Arrow / D</td>
+      <td>Right Arrow Button </td>
     </tr>
   </table>
 
