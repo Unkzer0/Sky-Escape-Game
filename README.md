@@ -1,65 +1,65 @@
-# 🌌 Sky Escape
+<html>
+<body>
 
-![Sky Escape Banner](<your_banner_image_link>)
+  <h1>☁️ Sky Escape</h1>
+  <p><strong>Sky Escape</strong> is a high-flying vertical escape game where you control a tiny character trying to escape the collapsing world below by jumping from platform to platform into the clouds.</p>
 
-**Rocket Runner!** Your mission is to navigate through treacherous obstacles and reach your destination unscathed.
+  <a href="https://unkzero0.itch.io/sky-escape" class="button" target="_blank">🎮 Play Now on Itch.io</a>
 
-## 🚀 Features
-✅ **Intuitive Controls** – Take command of your rocket with simple yet precise controls.  
-🎮 **Maneuver Effortlessly** – Navigate through narrow passages, dodge incoming hazards, and perform daring aerial stunts.  
-🔥 **Challenging Obstacles** – Prepare to encounter a myriad of obstacles standing between you and your goal.  
-🎶 **Immersive Soundtrack** – Experience dynamic sound effects and music.
+  <h2>✨ Features</h2>
+  <ul>
+    <li>Vertical endless runner-style gameplay</li>
+    <li>Beautiful sky-themed visuals</li>
+    <li>Simple but addictive controls</li>
+    <li>Made for WebGL — Play it in your browser!</li>
+  </ul>
 
----
+  <h2>🎮 Controls</h2>
+  <table>
+    <tr>
+      <th>Action</th>
+      <th>Control</th>
+    </tr>
+    <tr>
+      <td>Move Left</td>
+      <td>Left Arrow / A</td>
+    </tr>
+    <tr>
+      <td>Move Right</td>
+      <td>Right Arrow / D</td>
+    </tr>
+  </table>
 
-<!--## 📷 Screenshots
-<p align="center">
-    <img src="<your_screenshot_link_1>" alt="Gameplay Screenshot 1" width="600">
-    <img src="<your_screenshot_link_2>" alt="Gameplay Screenshot 2" width="600">
-    <img src="<your_screenshot_link_3>" alt="Gameplay Screenshot 3" width="600">
-</p>
--->
----
+  <h2>🛠️ Tech Stack</h2>
+  <ul>
+    <li>Unity 3D (WebGL Build)</li>
+    <li>C# Scripting</li>
+  </ul>
 
-## 🎮 How to Play
-1. **Open the game from the link below.
-2. **Launch** the game on your browser.
-3. **Control the spaceship** using joystick.
-4. **Dodge obstacles and reach your goal safely.**
+  <h2>📦 Project Setup</h2>
+  <pre><code>git clone https://github.com/Unkzer0/sky-escape
+# Open in Unity 2021+ and run or build for WebGL
+</code></pre>
 
----
+  <h2>🧩 Future Plans</h2>
+  <ul>
+    <li>Power-ups (Jetpacks, Slow-mo, etc.)</li>
+    <li>More hazards and obstacles</li>
+    <li>Score sharing and leaderboards</li>
+  </ul>
 
-## 🔗 Game
-🔽 [Play Sky Escape](https://unkzero0.itch.io/sky-escape)
+  <h2>🔗 Links</h2>
+  <ul>
+    <li><a href="https://unkzero0.itch.io/sky-escape" target="_blank">Play on Itch.io</a></li>
+    <li><a href="https://github.com/Unkzer0/sky-escape" target="_blank">Source Code on GitHub</a></li>
+  </ul>
 
----
+  <h2>🧑‍💻 Developer</h2>
+  <p><strong>Unk Dev</strong><br>
+    Indie game developer creating fun and stylized experiences through Unity.
+  </p>
 
-## 🛠️ Technologies Used
-- 🎮 **Game Engine**: Unity 3D  
-- 💻 **Programming Language**: C#  
-- 🎨 **Assets & Animations**: Custom + Unity Asset Store  
+  <p><em>☁️ If you enjoy the game, please leave feedback or rate it on Itch.io!</em></p>
 
----
-
-## 🤝 Contributing
-We welcome contributions! To contribute:
-1. **Fork** the repository.
-2. **Create a new branch** (`git checkout -b feature-branch`).
-3. **Commit your changes** (`git commit -m "Added new feature"`).
-4. **Push to the branch** (`git push origin feature-branch`).
-5. **Open a Pull Request** for review.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-👤 **Developer**: Abhay Agrahari  
-✉️ **Email**: [work.abhay002@gmail.com](mailto:work.abhay002@gmail.com)  
-🐙 **GitHub**: [@AbhayAgrahari](https://github.com/yourusername)  
-🔗 **LinkedIn**: [Profile](https://www.linkedin.com/in/abhay-agrahari-5a6955257)  
-
-🚀 **Navigate through obstacles and achieve victory in Sky Escape!**
+</body>
+</html>
