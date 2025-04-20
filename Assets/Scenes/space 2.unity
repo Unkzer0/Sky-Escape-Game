@@ -334,7 +334,7 @@ Transform:
   m_GameObject: {fileID: 56698713}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -206.42444, y: 57.766804, z: -80}
+  m_LocalPosition: {x: -206.43263, y: 57.766804, z: -80}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3137,7 +3137,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -206.42444, y: 57.766804, z: -80}
+  m_LocalPosition: {x: -206.43263, y: 57.766804, z: -80}
   m_LocalScale: {x: 1, y: 0.7625, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6999,6 +6999,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ground
       objectReference: {fileID: 0}
+    - target: {fileID: 3012543967629835793, guid: 97b7de89332db2c4a8f3df2a0b8d0c8d, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 3437930023355331512, guid: 97b7de89332db2c4a8f3df2a0b8d0c8d, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -7187,6 +7191,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 51586790663402044, guid: a61ac3ab22304e54f8b9e78dac9b081e, type: 3}
+      propertyPath: force
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51586790663402044, guid: a61ac3ab22304e54f8b9e78dac9b081e, type: 3}
       propertyPath: leftButton
       value: 
       objectReference: {fileID: 1273314761}
@@ -7198,6 +7206,10 @@ PrefabInstance:
       propertyPath: boosterButton
       value: 
       objectReference: {fileID: 1666888328}
+    - target: {fileID: 51586790663402044, guid: a61ac3ab22304e54f8b9e78dac9b081e, type: 3}
+      propertyPath: rotationSpeed
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5052138184709238868, guid: a61ac3ab22304e54f8b9e78dac9b081e, type: 3}
       propertyPath: m_Name
       value: rocket

@@ -6,16 +6,16 @@ using UnityEngine.EventSystems;  // Add this for event handling
 
 public class Movement : MonoBehaviour
 {
-    [SerializeField] private float force;
-    [SerializeField] private float rotationSpeed;
+      public float force = 1200f;
+      public float rotationSpeed = 500f;
     [SerializeField] private AudioClip boost;
     [SerializeField] private ParticleSystem leftThurster;
     [SerializeField] private ParticleSystem rightThurster;
     [SerializeField] private ParticleSystem booster;
 
-    [SerializeField] private Button boosterButton; // Assign in Inspector
-    [SerializeField] private Button leftButton;    // Assign in Inspector
-    [SerializeField] private Button rightButton;   // Assign in Inspector
+    [SerializeField] private Button boosterButton; 
+    [SerializeField] private Button leftButton;    
+    [SerializeField] private Button rightButton; 
 
     private Rigidbody rb;
     private AudioSource au;
@@ -27,6 +27,13 @@ public class Movement : MonoBehaviour
 {
     rb = GetComponent<Rigidbody>();
     au = GetComponent<AudioSource>();
+
+     // Load saved values from PlayerPrefs
+    if (PlayerPrefs.HasKey("force"))
+        force = PlayerPrefs.GetFloat("force");
+
+    if (PlayerPrefs.HasKey("rotationSpeed"))
+        rotationSpeed = PlayerPrefs.GetFloat("rotationSpeed");
 
     //Use EventTrigger to detect when button is pressed and released
     AddEvent(boosterButton, StartBooster, StopBooster);

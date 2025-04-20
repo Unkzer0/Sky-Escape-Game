@@ -1090,8 +1090,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e88e8af60e2b1da4aa9339e9d1d1dfab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  force: 1200
-  rotationSpeed: 200
+  force: 1250
+  rotationSpeed: 300
   boost: {fileID: 8300000, guid: 33f7c365b2153fb4b87ff355fcc35586, type: 3}
   leftThurster: {fileID: 9117866934004620004}
   rightThurster: {fileID: 2713669269894881657}

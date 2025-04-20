@@ -91,19 +91,11 @@ public class CollisionHandler : MonoBehaviour
         switch (collision.gameObject.tag)
         {
             case "Launch":
-                Debug.Log("launching");
                 break;
-            case "Friendly":
-                Debug.Log("friendly");
-                break;
-
-          case "Land":
-                Debug.Log("level up!!");
+            case "Land":
                 Gameloading();
                  break;
-
             default:
-                Debug.Log("Rocket blow up!!");
                 Crashsquence();
                 break;
         }
